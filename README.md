@@ -32,7 +32,6 @@ The dashboard provides business insights to support data-driven decision-making.
 
 ## 📂 Project Structure
 E-Commerce-Sales-Dashboard/
-│
 ├── data/
 ├── dashboard/
 ├── screenshots/
