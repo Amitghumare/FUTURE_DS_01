@@ -37,6 +37,3 @@ E-Commerce-Sales-Dashboard/
 ├── screenshots/
 └── README.md
 
-
-## 🖼 Dashboard Preview
-![Dashboard Preview](screenshots/dashboard_overview.png)
